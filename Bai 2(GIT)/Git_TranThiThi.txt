@@ -1,0 +1,2 @@
+1. Git là một hệ thống quản lý phiên bản phân tán(distributed version control system) nhờ git, việc quản lý code và làm việc nhóm của develop trở nên đơn giản, thuận tiện hơn.
+-

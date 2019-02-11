@@ -1,0 +1,65 @@
+#tao git
+	git clone https://github.com/Thithi-Tran/DEHA-3.git
+#vao file
+	cd DEHA-3
+#tao file o master
+	touch doc.txt
+#luu va commit
+	git add .
+	git commit -m "tao file doc.txt"
+#tao nhanh develop
+	git checkout -b develop master
+#commit
+	git commit -a -m "them noi dung"
+	git commit -a -m "them noi dung 2"
+	git commit -a -m "them noi dung 3"
+#them nhanh feature-thi
+	git checkout -b feature-thi develop
+ 	git commit -a -m "them chuc nang tao"
+	git commit -a -m "them chuc nang them"
+	git commit -a -m "them chuc nang xoa"
+#chuyen nhanh
+	git checkout develop
+#gop nhanh feature-thi vao nhanh develop
+	git merge --no-ff feature-thi develop
+#tao nhanh release tu develop
+	git checkout -b release develop
+#commit release
+	git commit -a -m "test lan 1"
+#chuyen nhanh
+	git checkout develop
+#gop nhanh release vao develop
+	git merge --no-ff release develop
+#chuyenh nhanh feature-thi
+	git checkout feature-thi
+#gop nhanh develop vao nhanh feature-thi
+	git merge --no-ff develop feature-thi
+#chinh sua file khi dang o nhanh feature-thi
+	git commit -a -m "sua chuc nang tao"
+	git commit -a -m "sua chuc nang them"
+	git commit -a -m "sua chuc nang xoa"
+#chuyen nhanh release
+	git checkout release
+#them commit o nhanh release
+	git commit -a -m "sua chuc nang update"
+	git commit -a -m "test lan2"
+#chuyenh nhanh develop
+	git checkout develop
+#gop nhanh release vao nhanh develop
+	git merge --no-ff release develop
+#commit develop
+	git commit -a -m "them chuc nang tim kiem"
+#gop nhanh feature-thi vao nhanh develop
+	git merge --no-ff feature-thi develop
+#chuyenh nhanh 
+	git checkout release
+#gop nhanh develop vao release
+	git merge --no-ff develop release
+#chuyen nhanh master
+	git checkout master
+#gop nhanh release vao nhanh master
+	git merge --no-ff release master
+
+
+
+

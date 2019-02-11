@@ -1,0 +1,13 @@
+=>cai laradock:
+- https://laradock.io/
+artisan
+- https://allaravel.com/laravel-tutorials/laravel-artisan-la-gi-tai-sao-noi-cong-cu-nay-cuc-huu-ich/
+- https://laradock.io/guides/?fbclid=IwAR1Apf96l-VPQRjzGtuY-v2Xk7V79cmhq3i016JQT3D7j6Ri9aW_fpyduqw#set-up-your-laravel-project
+- https://viblo.asia/p/gioi-thieu-ve-laravel-924lJrnzlPM
+
+=>Artisan
+-https://viblo.asia/p/tim-hieu-artisan-trong-laravel-YWOZr0Yp5Q0
+- https://viblo.asia/p/tim-hieu-ve-seeder-trong-laravel-bWrZn1MmKxw
+
+=> Faker
+- https://scotch.io/tutorials/generate-dummy-laravel-data-with-model-factories

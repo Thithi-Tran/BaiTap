@@ -1,0 +1,21 @@
+=>kiểm thử phần mềm
+- https://viblo.asia/p/tong-quan-ve-kiem-thu-phan-mem-7rVRqwAdG4bP
+
+=> Unit test
+- https://viblo.asia/p/php-unit-test-101-gioi-thieu-ve-phpunit-63vKjJEyK2R
+- https://viblo.asia/p/unit-test-la-gi-maGK7m3Llj2
+- https://viblo.asia/p/tan-man-ve-testing-1Je5EMn05nL
+- https://viblo.asia/p/vai-tro-cua-unit-test-l0rvmm4AvyqA
+- https://secure.php.net/manual/en/class.reflectionclass.php#112212
+
+=>TDD
+- https://viblo.asia/p/tong-quan-ve-kiem-thu-tu-dong-tdd-va-bdd-trong-mo-hinh-phat-trien-phan-mem-agile-3P0lPMgp5ox
+- https://techblog.vn/test-driven-development-tdd-trong-ruby-on-rails
+
+=> phpunit
+- https://phpunit.de/manual/6.5/en/appendixes.assertions.html
+- https://phpunit.readthedocs.io/en/7.4/assertions.html
+- https://viblo.asia/p/php-unit-test-201-lam-quen-voi-test-case-assertions-va-data-provider-ByEZkW7yZQ0
+
+=>Coverage Report
+- https://blog.thamaraiselvam.com/finally-configured-xdebug-with-sublime-text-3-on-ubuntu-17-04-ea19aff56c67

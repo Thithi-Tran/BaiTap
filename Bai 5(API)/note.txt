@@ -1,0 +1,9 @@
+link tham khao:
+- https://viblo.asia/p/lam-nhu-the-nao-de-tao-mot-restful-api-bang-laravel-gGJ59X3DlX2
+lỗi : SQLSTATE[HY000] [2002] Connection refused
+-> xóa cache
+docker exec -it app bash
+php artisan config:clear
+php artisan cache:clear
+-> thay đổi id của máy vào file .env và mysql
+vi du : DB_HOST=192.168.1.206
