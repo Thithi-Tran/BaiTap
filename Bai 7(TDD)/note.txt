@@ -2,7 +2,7 @@
 - https://viblo.asia/p/tong-quan-ve-kiem-thu-phan-mem-7rVRqwAdG4bP
 
 => Unit test
-- https://viblo.asia/p/php-unit-test-101-gioi-thieu-ve-phpunit-63vKjJEyK2R
+- ttps://viblo.asia/p/php-unit-test-101-gioi-thieu-ve-phpunit-63vKjJEyK2R
 - https://viblo.asia/p/unit-test-la-gi-maGK7m3Llj2
 - https://viblo.asia/p/tan-man-ve-testing-1Je5EMn05nL
 - https://viblo.asia/p/vai-tro-cua-unit-test-l0rvmm4AvyqA
@@ -20,4 +20,17 @@
 =>Coverage Report
 - https://blog.thamaraiselvam.com/finally-configured-xdebug-with-sublime-text-3-on-ubuntu-17-04-ea19aff56c67
 
-=>haha
+=> assertions
+- https://phpunit.de/manual/6.5/en/appendixes.assertions.html
+
+=> FizzBuzz
+- https://cyber-dojo.org/kata/edit/9JXMac
+
+=> RomanNumber 
+- https://cyber-dojo.org/kata/edit/jgYqW3
+
+=> Biro
+- https://cyber-dojo.org/kata/edit/XhVvss
+
+
+

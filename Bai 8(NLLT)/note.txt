@@ -1,0 +1,13 @@
+=> Nguyen ly lap trinh
+- https://viblo.asia/p/nhung-nguyen-tac-dinh-luat-thong-dung-khi-lap-trinh-gGJ59g2DZX2
+
+=> KISS
+- https://stackjava.com/principle/kiss-principle-nguyen-tac-kiss-trong-java.html
+
+=> DRY
+- https://stackjava.com/principle/yangi-dry-la-gi-yangi-dry-trong-java.html
+
+=> SOLID
+- https://viblo.asia/p/tim-hieu-ve-nguyen-ly-solid-bJzKm7mYl9N
+- https://code.tutsplus.com/tutorials/solid-part-4-the-dependency-inversion-principle--net-36872
+
